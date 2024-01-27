@@ -1,0 +1,16 @@
+John: Hi, what's up?
+Server: John: Hi, what's up?
+Steve: Nothing, going for lunch
+Server: Steve: Nothing, going for lunch
+Server: HEY EVERYONE, THIS IS THE SERVER
+Server: HEY EVERYONE, THIS IS THE SERVER
+John: hi server
+Server: John: hi server
+Steve: how are you?
+Server: Steve: how are you?
+Server: I am good
+Server: i am good steve
+Steve: hey server, can you resolve a issue?
+Server: hey all
+Server: hey all
+Server: hey man
